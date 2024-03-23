@@ -24,4 +24,9 @@ export default navbar([
     icon: "github",
     link: "https://github.com/LC044/WeChatMsg",
   },
+  {
+    text: "官网",
+    icon: "context",
+    link: "https://memotrace.cn/",
+  },
 ]);
