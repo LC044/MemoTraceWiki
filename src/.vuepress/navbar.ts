@@ -8,7 +8,7 @@ export default navbar([
     link: "/posts/feature",
   },
   {
-    text: "部署教程",
+    text: "使用教程",
     icon: "blog",
     link: "/posts/deploy/",
   },

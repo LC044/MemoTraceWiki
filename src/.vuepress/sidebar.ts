@@ -81,26 +81,23 @@ export default sidebar({
       text: "开发教程",
       icon: "blog",
       collapsible: true,
-      prefix: "posts/deploy/",
-      link: "posts/deploy/",
+      prefix: "posts/develop/",
+      link: "posts/develop/",
+      children: [
+        {
+          text: "源码运行",
+          icon: "blog",
+          link: "technology-info",
+        },
+      ],
     },
     {
       text: "常见问题",
       icon: "info",
       collapsible: true,
-      link: "posts/error/",
+      link: "posts/error/faq",
       prefix: "posts/error/",
       children: [
-        {
-          text: "Mirai常见报错",
-          icon: "notice",
-          link: "mirai",
-        },
-        {
-          text: "go-cqhttp常见报错",
-          icon: "list",
-          link: "gocq",
-        },
         {
           text: "问题解答",
           icon: "blog",
