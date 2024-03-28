@@ -14,68 +14,6 @@ export default sidebar({
       collapsible: true,
       prefix: "posts/deploy/",
       link: "posts/deploy/",
-      children: [
-        {
-          text: "部署QChatGPT",
-          icon: "flow",
-          prefix:"qchatgpt/",
-          link: "qchatgpt/",
-          children: [
-            {
-              text: "手动部署",
-              icon: "support",
-              link: "manual",
-            },
-            {
-              text: "Docker部署",
-              icon: "stack",
-              link: "docker",
-            },
-          ],
-        },
-        {
-          text: "部署消息平台",
-          icon: "merge",
-          prefix:"platforms/",
-          link: "platforms/",
-          children: [
-            {
-              text: "Mirai",
-              icon: "support",
-              link: "mirai",
-            },
-            {
-              text: "go-cqhttp",
-              icon: "state",
-              link: "gocq",
-            },
-            {
-              text: "OpenShamrock",
-              icon: "mobile",
-              link: "shamrock",
-            },
-            {
-              text: "Lagrange.OneBot",
-              icon: "light",
-              link: "lagrange",
-            },
-            {
-              text: "QQ 官方 API",
-              icon: "network",
-              link: "official",
-            },
-            {
-              text: "其他兼容的平台",
-              icon: "more",
-              link: "other",
-            }
-          ],
-        },{
-          text: "填写配置信息",
-          icon: "class",
-          link: "config",
-        }
-      ],
     },
     {
       text: "开发教程",

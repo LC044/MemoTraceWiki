@@ -15,9 +15,9 @@ export default navbar([
   // "/posts/deploy/",
   // "/posts/Features",
   {
-    text: "配置详解",
+    text: "常见问题",
     icon: "context",
-    link: "/posts/config/",
+    link: "/posts/error/",
   },
   {
     text: "代码仓库",
