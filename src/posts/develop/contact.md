@@ -22,14 +22,17 @@ index: false
 
 如果您在使用过程中遇到了问题，可添加QQ交流群反馈
 
-> 注意：入群前请仔细阅读文档，确保您的问题在文档中无法解决<br>
-> 入群需要密码，请关注微信公众号回复“联系方式”获取入群密码<br>
-> 为避免无效询问，请您询问之前请务必提供报错截图和日志文件<br>
+:::important
+注意：入群前请仔细阅读文档，确保您的问题在文档中无法解决<br>
+入群需要密码，请关注微信公众号回复“联系方式”获取入群密码<br>
+为避免无效询问，请您询问之前请务必提供报错截图和日志文件<br>
+:::
 
 <img src="https://memotrace.cn/img/qq2.jpg" height="200px">
 
 ## 客服微信
 
-如果您已经购买VIP，在使用过程中遇到问题，可添加客服微信咨询
+如果您已经购买VIP，在使用过程中遇到问题，可添加客服微信咨询(备注来意)
 
+<img src="https://blog.lc044.love/static/img/c841292b24de6ed322d11ee7300ca07a.clipboard-2024-04-01.webp" height="200px">
 <img src="https://blog.lc044.love/static/img/73257d571f108845f55afdc0b8a7936e.clipboard-2024-03-22.webp" height="200px">

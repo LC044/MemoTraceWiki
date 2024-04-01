@@ -13,7 +13,24 @@ export default sidebar({
       icon: "blog",
       collapsible: true,
       prefix: "posts/deploy/",
-      link: "posts/deploy/",
+      link: "posts/deploy/install",
+      children: [
+        {
+          text: "安装",
+          icon: "blog",
+          link: "install",
+        },
+        {
+          text: "解析数据",
+          icon: "blog",
+          link: "parser-db",
+        },
+        {
+          text: "导出数据",
+          icon: "blog",
+          link: "exporter",
+        },
+      ],
     },
     {
       text: "开发教程",
@@ -36,6 +53,11 @@ export default sidebar({
       link: "posts/error/faq",
       prefix: "posts/error/",
       children: [
+        {
+          text: "弹窗报错",
+          icon: "blog",
+          link: "unknown",
+        },
         {
           text: "问题解答",
           icon: "blog",
