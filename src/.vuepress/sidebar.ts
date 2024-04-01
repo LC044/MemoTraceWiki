@@ -16,7 +16,7 @@ export default sidebar({
       link: "posts/deploy/install",
       children: [
         {
-          text: "安装",
+          text: "安装教程",
           icon: "blog",
           link: "install",
         },
@@ -34,14 +34,14 @@ export default sidebar({
     },
     {
       text: "开发教程",
-      icon: "blog",
+      icon: "read",
       collapsible: true,
       prefix: "posts/develop/",
       link: "posts/develop/",
       children: [
         {
           text: "源码运行",
-          icon: "blog",
+          icon: "read",
           link: "technology-info",
         },
       ],
@@ -67,8 +67,13 @@ export default sidebar({
     },
     {
       text: "联系我们",
-      icon: "blog",
+      icon: "at",
       link: "posts/develop/contact",
+    },
+    {
+      text: "AI客服",
+      icon: "ask",
+      link: "https://chat.memotrace.cn/service/",
     },
   ],
 });

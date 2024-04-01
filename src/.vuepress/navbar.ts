@@ -16,13 +16,13 @@ export default navbar([
   // "/posts/Features",
   {
     text: "常见问题",
-    icon: "context",
+    icon: "info",
     link: "/posts/error/",
   },
   {
-    text: "代码仓库",
-    icon: "github",
-    link: "https://github.com/LC044/WeChatMsg",
+    text: "AI客服",
+    icon: "ask",
+    link: "https://chat.memotrace.cn/service/",
   },
   {
     text: "官网",
