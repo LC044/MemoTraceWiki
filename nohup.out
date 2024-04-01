@@ -1,0 +1,68 @@
+
+> MemoTraceDocs@1.0.0 docs:dev /root/project/MemoTraceWiki
+> vuepress-vite dev src
+
+- Initializing and preparing data
+✔ Initializing and preparing data - done in 358ms
+Port 8080 is in use, trying another one...
+
+  vite v5.0.12 dev server running at:
+
+  ➜  Local:   http://localhost:8081/doc/
+  ➜  Network: http://172.18.14.139:8081/doc/
+
+> MemoTraceDocs@1.0.0 docs:dev /root/project/MemoTraceWiki
+> vuepress-vite dev src
+
+- Initializing and preparing data
+✔ Initializing and preparing data - done in 413ms
+12:38:13 AM [vite] page reload index.html
+Port 8080 is in use, trying another one...
+Port 8081 is in use, trying another one...
+
+  vite v5.0.12 dev server running at:
+
+  ➜  Local:   http://localhost:8082/doc/
+  ➜  Network: http://172.18.14.139:8082/doc/
+
+> MemoTraceDocs@1.0.0 docs:dev /root/project/MemoTraceWiki
+> vuepress-vite dev src "--port" "8080"
+
+- Initializing and preparing data
+✔ Initializing and preparing data - done in 404ms
+12:39:05 AM [vite] page reload index.html
+12:39:05 AM [vite] page reload index.html
+Port 8080 is in use, trying another one...
+Port 8081 is in use, trying another one...
+Port 8082 is in use, trying another one...
+
+  vite v5.0.12 dev server running at:
+
+  ➜  Local:   http://localhost:8083/doc/
+  ➜  Network: http://172.18.14.139:8083/doc/
+
+> MemoTraceDocs@1.0.0 docs:dev /root/project/MemoTraceWiki
+> vuepress-vite dev src "--port" "8080"
+
+- Initializing and preparing data
+✔ Initializing and preparing data - done in 357ms
+12:41:40 AM [vite] page reload index.html
+
+  vite v5.0.12 dev server running at:
+
+  ➜  Local:   http://localhost:8080/doc/
+  ➜  Network: http://172.18.14.139:8080/doc/
+Killed
+ ELIFECYCLE  Command failed with exit code 137.
+
+> MemoTraceDocs@1.0.0 docs:dev /root/project/MemoTraceWiki
+> vuepress-vite dev src "--port" "8080"
+
+- Initializing and preparing data
+✔ Initializing and preparing data - done in 399ms
+12:41:49 AM [vite] page reload index.html
+
+  vite v5.0.12 dev server running at:
+
+  ➜  Local:   http://localhost:8080/doc/
+  ➜  Network: http://172.18.14.139:8080/doc/
