@@ -54,14 +54,19 @@ export default sidebar({
       prefix: "posts/error/",
       children: [
         {
+          text: "问题解答",
+          icon: "blog",
+          link: "faq",
+        },
+        {
           text: "弹窗报错",
           icon: "blog",
           link: "unknown",
         },
         {
-          text: "问题解答",
+          text: "会员相关",
           icon: "blog",
-          link: "faq",
+          link: "vip-faq",
         },
       ],
     },

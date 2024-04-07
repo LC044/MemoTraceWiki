@@ -20,6 +20,12 @@ pnpm install
 pnpm docs:dev
 ```
 
+打包
+
+```bash
+npm run docs:build
+```
+
 ### 推荐环境
 
 推荐使用 GitHub Codespaces 编写，仓库页面点击 "Code" -> "Codespaces" -> 直接创建一个 Codespace  
