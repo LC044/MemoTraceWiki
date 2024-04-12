@@ -30,6 +30,11 @@ export default sidebar({
           icon: "blog",
           link: "exporter",
         },
+        {
+          text: "保存数据",
+          icon: "blog",
+          link: "save",
+        },
       ],
     },
     {

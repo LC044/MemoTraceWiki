@@ -16,7 +16,7 @@ index: false
 
 微信公众号会持续发布软件的更新日志，请大家关注公众号获取最新更新信息
 
-![](https://blog.lc044.love/static/img/3fd32f1732a2c8f53a7eb923472b8f19.clipboard-2023-12-18.webp)
+![](https://blog.lc044.love/static/img/b8df8c594a4cabaa0a62025767a3cfd9.weixin.webp)
 
 ## QQ交流群
 
