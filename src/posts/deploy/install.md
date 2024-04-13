@@ -17,11 +17,11 @@
 
 ## 解压
 
-Win11系统是自带解压功能的，此时只需要用鼠标右击MemoTrace-x.x.x.7z,选择“全部解压缩”即可
+Windows系统是自带解压功能的，此时只需要双击MemoTrace-x.x.x.exe,选择“开始”即可
 
-![](https://blog.lc044.love/static/img/4823abf4f00f6c41f236dba0cff415bf.clipboard-2024-04-01.webp)
+![](https://blog.lc044.love/static/img/8db3d648b83bd98862062bc2d8b487ee.clipboard-2024-04-13.webp)
 
-其他系统可以下载第三方解压软件，同样是用鼠标右击MemoTrace-x.x.x.7z，解压全部文件
+记住解压路径，解压后会自动打开软件，解析完成之后会让重新启动，此时找到该路径双击MemoTrace.exe即可启动程序
 
 ## 打开
 
@@ -33,7 +33,3 @@ Win11系统是自带解压功能的，此时只需要用鼠标右击MemoTrace-x.
 ![](https://blog.lc044.love/static/img/d6bc0db15e20bee508dcb098c5098f48.clipboard-2024-04-01.webp)
 
 双击MemoTrace.exe即可打开
-
-第一次打开会显示数据库不存在，此时点击确定即可
-
-![](https://blog.lc044.love/static/img/bbdc07ecb6aecb028c46199dbfe0da85.clipboard-2024-04-01.webp)

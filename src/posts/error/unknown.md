@@ -28,7 +28,7 @@ Python版本不对，使用3.10及以上版本
 4. 重装微信
 ```
 
-#### 3. sqlite3.OperationalError: no such table: MSG
+#### 3. 数据库合并错误(sqlite3.OperationalError: no such table: MSG)
 
 ```text
 聊天记录迁移的过程中数据未能及时写入数据库，伴随的问题是缺失部分聊天记录
@@ -40,7 +40,7 @@ Python版本不对，使用3.10及以上版本
 
 #### 4. 丢失api-ms-win-core-path-l1-1-0.dll文件
 
-```
+```text
 不支持win7，请换用Win10及以上操作系统
 ```
 
@@ -53,6 +53,5 @@ Python版本不对，使用3.10及以上版本
 ```
 
 #### 6. sqlite3.OperationalError: no such table: ContactHeadImg1
-
 
 ![image.png](https://blog.lc044.love/static/img/a5dd90b7614ee0301e8c7a06d059bc48.image.webp)
