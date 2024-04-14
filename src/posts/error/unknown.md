@@ -49,9 +49,15 @@ Python版本不对，使用3.10及以上版本
 ```text
 数据库损坏
 解决方案
-1. 重启微信（删除app/DataBase/Msg文件夹、退出登录再重新登录）
+1. 删除app/文件夹，退出登录微信
+2. 找到微信路径：E:\Documents\WeChat Files\wxid_xxx\Msg
+3. 在文件夹里找到Misc.db文件，把这个文件删了
+4. 登录微信，在联系人列表里加载好友头像
+5. 重新登录微信
+6. 重新打开MemoTrace解析数据
 ```
 
 #### 6. sqlite3.OperationalError: no such table: ContactHeadImg1
 
+重新登录一下微信就好了
 ![image.png](https://blog.lc044.love/static/img/a5dd90b7614ee0301e8c7a06d059bc48.image.webp)

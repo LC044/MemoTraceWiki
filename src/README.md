@@ -6,7 +6,7 @@ head:
 home: true
 icon: home
 title: 项目主页
-heroImage: /logo.png
+heroImage: https://blog.lc044.love/static/img/91cadaae3a6f7ee133dafd4f9b5d8680.logo.webp
 # bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 # bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 # bgImageStyle:
@@ -18,12 +18,14 @@ actions:
     link: ./posts/deploy/
     type: primary
 
+  - text: 🤯AI客服
+    link: https://chat.memotrace.cn/service/
+
   - text: 下载使用
     link: https://memotrace.cn/
-
 highlights:
   - header: 功能强大
-    # image: /assets/image/features.svg
+    # image: /logo.png
     # bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
     # bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
