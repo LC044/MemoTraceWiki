@@ -14,3 +14,9 @@ for /r "%source_folder%" %%f in (*.md) do (
 )
 
 echo Copy completed.
+
+echo strat update database.
+
+python .\update_database.py
+
+echo completed.
