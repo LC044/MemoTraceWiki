@@ -33,6 +33,7 @@ index: false
 ## 客服微信
 
 如果您已经购买VIP，在使用过程中遇到问题，可添加客服微信咨询(备注来意)
+不是VIP请加群！！！谢谢！！！
 
 <img src="https://blog.lc044.love/static/img/c841292b24de6ed322d11ee7300ca07a.clipboard-2024-04-01.webp" height="200px">
 <img src="https://blog.lc044.love/static/img/73257d571f108845f55afdc0b8a7936e.clipboard-2024-03-22.webp" height="200px">

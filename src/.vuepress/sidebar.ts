@@ -31,6 +31,11 @@ export default sidebar({
           link: "exporter",
         },
         {
+          text: "导出朋友圈",
+          icon: "blog",
+          link: "pyq",
+        },
+        {
           text: "保存数据",
           icon: "blog",
           link: "save",
