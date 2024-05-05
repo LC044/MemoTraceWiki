@@ -77,5 +77,5 @@ highlights:
         link: https://chat.memotrace.cn/
 
 copyright: false
-footer: <a href="https://github.com/LC044/WeChatMsg/" target="_blank">WechatMsg</a> 版权所有 © 2024 MemoTrace  <br/> <br/> <a href="http://beian.miit.gov.cn/" target="_blank" rel="nofollow noopener">陕ICP备2023017789号</a>&nbsp;&nbsp;<a href="http://www.beian.gov.cn/portal/registerSystemInfo" rel="nofollow noopener" class="beian-police" target="_blank">陕公网安备61019002002696号</a>
+footer: <a href="https://github.com/LC044/WeChatMsg/" target="_blank">WechatMsg</a> 版权所有 © 2024 忆墨痕  <br/> <br/> <a href="http://beian.miit.gov.cn/" target="_blank" rel="nofollow noopener">陕ICP备2023017789号</a>&nbsp;&nbsp;<a href="http://www.beian.gov.cn/portal/registerSystemInfo" rel="nofollow noopener" class="beian-police" target="_blank">陕公网安备61019002002696号</a>
 ---
