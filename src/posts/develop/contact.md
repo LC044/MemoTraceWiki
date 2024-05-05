@@ -28,7 +28,7 @@ index: false
 为避免无效询问，请您询问之前请务必提供报错截图和日志文件<br>
 :::
 
-<img src="https://memotrace.cn/img/qq2.jpg" height="200px">
+<img src="https://memotrace.cn/img/qq3.jpg" height="200px">
 
 ## 客服微信
 
