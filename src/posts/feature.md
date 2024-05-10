@@ -56,14 +56,9 @@ tag:
 * **导出跟企业微信联系人的聊天记录**（仅会员可用）
 * 导出JSON
 
-### [导出朋友圈](https://memotrace.cn/pyqdemo/index.html)（仅会员可用）
+### [导出朋友圈](https://memotrace.cn/pyqdemo/index.html)
 
 * 导出自己的朋友圈
-* 导出可见的全部朋友圈（仅会员可用）
-* 导出指定好友的朋友圈（仅会员可用）
-  * 导出HTML
-  * 导出PDF
-  * 导出JSON
 * 支持显示点赞、评论
 * 支持时间轴跳转
 
