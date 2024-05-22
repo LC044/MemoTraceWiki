@@ -33,6 +33,7 @@ index: false
 ## 客服微信
 
 如果您已经购买VIP，在使用过程中遇到问题，可添加客服微信咨询(备注来意)
+客服工作时间：工作日10:00-12:00 14:00-17:00
 不是VIP请加群！！！谢谢！！！
 
 <img src="https://blog.lc044.love/static/img/c841292b24de6ed322d11ee7300ca07a.clipboard-2024-04-01.webp" height="200px">
