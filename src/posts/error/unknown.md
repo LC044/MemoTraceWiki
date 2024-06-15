@@ -60,4 +60,9 @@ Python版本不对，使用3.10及以上版本
 #### 6. sqlite3.OperationalError: no such table: ContactHeadImg1
 
 重新登录一下微信就好了
+
 ![image.png](https://blog.lc044.love/static/img/a5dd90b7614ee0301e8c7a06d059bc48.image.webp)
+
+#### 7. OPENSSL_Uplink(00007FF903249C88,08):no OPENSSL_Applink
+
+把WireShark的环境变量删了
