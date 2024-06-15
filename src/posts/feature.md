@@ -57,11 +57,11 @@ tag:
 * **导出跟企业微信联系人的聊天记录**（仅会员可用）
 * 导出JSON
 
-### [导出朋友圈](https://memotrace.cn/pyqdemo/index.html)
+<!-- ### [导出朋友圈](https://memotrace.cn/pyqdemo/index.html)
 
 * 导出自己的朋友圈
 * 支持显示点赞、评论
-* 支持时间轴跳转
+* 支持时间轴跳转 -->
 
 ### 导出群成员信息（仅会员可用）
 
