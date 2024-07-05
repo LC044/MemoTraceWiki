@@ -35,6 +35,11 @@ export default sidebar({
           icon: "blog",
           link: "save",
         },
+        {
+          text: "语音转文字",
+          icon: "blog",
+          link: "audio-to-text",
+        },
       ],
     },
     {
