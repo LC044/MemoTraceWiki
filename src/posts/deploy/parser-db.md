@@ -30,7 +30,7 @@
 
 ## 3. 设置微信路径(如果已经自动设置好就跳过该步骤)
 
-选择微信->设置->文件管理的微信文件默认路径下的wxid_xxx文件夹
+选择微信->设置->文件管理的微信文件默认路径下的wxid_xxx文件夹（一般以wxid_xxx开头，部分微信为自定义字符串，跟MemoTrace里显示的wxid保持一致即可）
 
 ![setting.png](https://blog.lc044.love/static/img/eda24dae22ab39446d92c7c984bcc0b8.setting.webp)
 
