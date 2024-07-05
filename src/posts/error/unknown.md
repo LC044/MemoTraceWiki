@@ -2,7 +2,7 @@
 
 :::important
 **通用的解决方案（怎么办）**
-* 删除app文件夹（跟exe文件在同一目录）
+* 删除app/DataBase文件夹（跟exe文件在同一目录）
 * 重启微信（退出登录再重新登录）
 * 启动Memotrace
 :::
@@ -49,7 +49,7 @@ Python版本不对，使用3.10及以上版本
 ```text
 数据库损坏
 解决方案
-1. 删除app/文件夹，退出登录微信
+1. 删除app/DataBase文件夹，退出登录微信
 2. 找到微信路径：E:\Documents\WeChat Files\wxid_xxx\Msg
 3. 在文件夹里找到Misc.db文件，把这个文件删了
 4. 登录微信，在联系人列表里加载好友头像
