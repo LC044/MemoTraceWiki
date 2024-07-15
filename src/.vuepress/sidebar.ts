@@ -50,10 +50,25 @@ export default sidebar({
       link: "posts/develop/",
       children: [
         {
-          text: "源码运行",
+          text: "数据构建",
           icon: "read",
-          link: "technology-info",
+          link: "dataset",
         },
+        {
+          text: "训练指南1",
+          icon: "read",
+          link: "train",
+        },
+        {
+          text: "训练指南2",
+          icon: "read",
+          link: "train2",
+        },
+        {
+          text: "部署运行",
+          icon: "read",
+          link: "deploy",
+        }
       ],
     },
     {
