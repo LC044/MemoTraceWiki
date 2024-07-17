@@ -16,7 +16,7 @@
 
 ## 📜导出聊天记录到PDF
 
-[点击预览](https://memotrace.cn/pdfdemo.html)
+[点击预览](https://memotrace.cn/pdfdemo.pdf)
 
 1. 支持的消息类型
    * 文本、图片、表情包、文件、转账、音视频通话记录、拍一拍等系统消息、引用消息、分享名片、位置分享
