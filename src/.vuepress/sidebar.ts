@@ -40,6 +40,11 @@ export default sidebar({
           icon: "blog",
           link: "audio-to-text",
         },
+        {
+          text: "多账号管理",
+          icon: "blog",
+          link: "manage-accounts",
+        },
       ],
     },
     {

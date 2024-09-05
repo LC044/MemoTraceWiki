@@ -39,6 +39,16 @@ highlights:
         details: 批量导出数据、自定义导出时间、想要哪个勾哪个
         link: https://memotrace.cn/#function
 
+      - title: 公众号导出
+        icon: blog
+        details: 导出历史文章链接、永久保存文章为PDF
+        link: /posts/feature.md
+
+      - title: 多账号管理
+        icon: group
+        details: 管理多个微信账号导出聊天记录
+        link: /posts/feature.md
+
       - title: 年度聊天报告
         icon: creative
         details: 熬夜冠军、年度关键词、常用表情包——聊天也有仪式感

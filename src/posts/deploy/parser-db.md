@@ -17,11 +17,11 @@
 
 ## 2. 点击获取信息
     
-![image.png](https://blog.lc044.love/static/img/218cba631855713e971bb9d264ef7aac.image.webp)
+![](https://blog.lc044.love/static/img/cf978db404a25c10826ea1bb6dd61f90.clipboard-2024-09-04.webp)
 
 点击获取信息之后，正常情况下所有信息均会自动填充，这时候就直接点击开始启动就行了
 
-![image.png](https://blog.lc044.love/static/img/7b2c7e3528248298080befb2e5e6df1d.image.webp)
+![](https://blog.lc044.love/static/img/acfd191b1ce3e2869b565d3e397a5b65.clipboard-2024-09-04.webp)
 
 - **如果微信路径获取失败就转到第四步**
 - **如果wxid或key为none**，多试几次，不行的话先重启电脑再试试，90%都能解决
@@ -39,20 +39,22 @@
 ![path_select.png](https://blog.lc044.love/static/img/40b7e0ecea92dd1fe0c58ea60ff800f7.path_select.webp)
     
     
-## 4. 点击开始启动
+## 4. 解析数据\增量解析
 
-成功之后会有弹窗提醒，此时关闭软件重新启动即可
+- 解析数据：留痕没有该微信账号数据（第一次解析、删除过账号或者手动删除过数据库），选择解析数据，成功之后会有弹窗提醒，点击“OK”即可
 
-![](https://blog.lc044.love/static/img/6f986cdfa52fa746309c1d12fbc41800.clipboard-2024-04-01.webp)
+- 增量解析：留痕已经有该微信账号数据，且在留痕已登录该账号，选择增量解析，将微信更新数据同步更新至留痕，成功之后会有弹窗提醒，点击“OK”即可
 
-## 5. 成功后新的数据库存储在./app/DataBase/Msg文件夹下
+![](https://blog.lc044.love/static/img/bb870f913f9c43e91f18a93504410c13.clipboard-2024-09-04.webp)
 
-![image.png](https://blog.lc044.love/static/img/9e8c1a93a2760de73b0aeb02411d8508.image.webp)
+## 5. 成功后新的数据库存储在./app/DataBase/Msg/wxid***文件夹下
+
+![](https://blog.lc044.love/static/img/18b157d1f2dbe90a03345154735db594.clipboard-2024-09-04.webp)
     
 6. 这些数据库可用普通的SQLite查看器查看：如【[DB Browser for SQLite](https://sqlitebrowser.org/dl/)】建议不懂SQL的就不要看了，应该是看不懂的，重启该软件可直接查看聊天记录
 
-7. 重新启动之后打开是这个界面
+7. 解析数据成功跳转后是这个界面
 
-![](https://blog.lc044.love/static/img/996d010bdd02242b4776819195f77b9d.clipboard-2024-04-01.webp)
+![](https://blog.lc044.love/static/img/d980364771c09dd5589cc3d7e3a5d414.clipboard-2024-09-04.webp)
 
 **更多问题请查看 [常见问题解答](/doc/posts/error/faq.html)**
