@@ -5,3 +5,5 @@ src/.vuepress/.temp/
 src/.vuepress/dist/
 test*
 .vscode
+pnpm-lock.yaml
+test*
