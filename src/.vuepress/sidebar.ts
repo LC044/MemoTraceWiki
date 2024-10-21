@@ -16,32 +16,32 @@ export default sidebar({
       link: "posts/deploy/install",
       children: [
         {
-          text: "安装教程",
+          text: "1. 安装教程",
           icon: "blog",
           link: "install",
         },
         {
-          text: "解析数据",
+          text: "2. 解析数据",
           icon: "blog",
           link: "parser-db",
         },
         {
-          text: "导出数据",
+          text: "3. 导出数据",
           icon: "blog",
           link: "exporter",
         },
         {
-          text: "保存数据",
-          icon: "blog",
-          link: "save",
-        },
-        {
-          text: "语音转文字",
+          text: "4. 语音转文字",
           icon: "blog",
           link: "audio-to-text",
         },
         {
-          text: "多账号管理",
+          text: "5. 保存数据",
+          icon: "blog",
+          link: "save",
+        },
+        {
+          text: "6. 账号管理",
           icon: "blog",
           link: "manage-accounts",
         },
@@ -99,6 +99,11 @@ export default sidebar({
           link: "vip-faq",
         },
       ],
+    },
+    {
+      text: "更新日志",
+      icon: "read",
+      link: "posts/update-log",
     },
     {
       text: "联系我们",

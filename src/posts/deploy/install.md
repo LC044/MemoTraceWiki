@@ -1,3 +1,17 @@
+---
+head:
+  - - meta
+    - name: keywords
+      content: 保存数据
+title: 1. 如何安装
+icon: info
+author: 司小远
+date: 2024-04-12
+category:
+  - 安装
+index: true
+---
+
 # 安装教程
 
 ## 下载

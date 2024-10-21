@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>&#x66f4;&#x65b0;&#x65e5;&#x5fd7;</title>
+            <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+            
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <h1 id="更新日志">更新日志</h1>
+<h2 id="v2015-20240928">v2.0.15 <a href="https://mp.weixin.qq.com/s/h6LGtlJ1qZ4O8TLAweTb4g">【2024.09.28】</a></h2>
+<h5 id="功能">功能</h5>
+<ol>
+<li>HTML支持搜索功能</li>
+<li>全新的统计信息</li>
+<li>新增暂停、取消导出功能</li>
+<li>新增PDF修改页面大小和页边距的功能</li>
+<li>docx支持显示原图</li>
+</ol>
+<h5 id="优化">优化</h5>
+<ol>
+<li>HTML日期跳转</li>
+<li>优化PDF导出内存占用</li>
+<li>优化批量导出内存占用</li>
+<li>修复聊天记录PDF页面分割异常的问题</li>
+<li>修复进度条显示问题</li>
+</ol>
+<h2 id="v201420240831">v2.0.14<a href="https://mp.weixin.qq.com/s/9e4jTmeMbQM01jQ7z1hV5g">【2024.08.31】</a></h2>
+<h5 id="功能-1">功能</h5>
+<ol>
+<li>新增导出公众号消息
+<ul>
+<li>支持导出公众号文章为PDF</li>
+<li>支持导出微信运动、微信支付、拼多多等快递信息为xlsx</li>
+</ul>
+</li>
+<li>新增增量解析数据</li>
+<li>新增多账号切换、删除账号</li>
+<li>HTML支持日期跳转</li>
+<li>TXT和xlsx支持合并转发的聊天记录</li>
+<li>AI TXT和TXT支持显示语音转文字</li>
+<li>群聊支持导出AI TXT</li>
+<li>软件UI支持显示微信内置emoji</li>
+<li>HTML图片、视频按时间命名</li>
+</ol>
+<h5 id="优化-1">优化</h5>
+<ol>
+<li>优化批量导出内存占用</li>
+<li>修复一键导出图片、视频命名冲突的问题</li>
+<li>修复PDF部分表情包不显示的问题</li>
+<li>修复xlsx不能嵌入聊天图片的问题</li>
+<li>修复部分超大聊天记录解析数据不全的问题</li>
+<li>群聊自己的昵称修改为群里的备注</li>
+<li>优化部分UI</li>
+</ol>
+<h2 id="v2013-20240719">v2.0.13 <a href="https://mp.weixin.qq.com/s/BkdhMrI5pJK1E2RwLrRYuQ">【2024.07.19】</a></h2>
+<h5 id="功能-2">功能</h5>
+<ol>
+<li>json支持GLM4微调数据集
+<ul>
+<li>json支持修改模型、assistant、数据集占比、导出策略</li>
+<li>新增隐私保护</li>
+</ul>
+</li>
+<li>PDF显示视频时长</li>
+<li>支持批量导出AI专用TXT</li>
+</ol>
+<h5 id="优化-2">优化</h5>
+<ol>
+<li>VIP导出HTML图片默认按时间排序</li>
+<li>修复HTML部分视频导出失败的问题</li>
+<li>修复按时间排序文件夹创建失败的问题</li>
+<li>修复部分群聊语音时长解析失败的问题</li>
+<li>修复联系人有多个标签显示为none的问题</li>
+</ol>
+<h2 id="v201220240705">v2.0.12<a href="https://mp.weixin.qq.com/s/HiJ4MhDhO2Swyg7NJmfC5A">【2024.07.05】</a></h2>
+<h5 id="功能-3">功能</h5>
+<ol>
+<li>新增语音转文字功能</li>
+<li>会员导出图片、视频支持按时间排序</li>
+<li>批量导出支持只选群聊、只选好友</li>
+</ol>
+<h5 id="优化-3">优化</h5>
+<ol>
+<li>修复企业微信好友无法导出AI TXT的问题</li>
+<li>修复设置单个docx消息数量失效的问题</li>
+<li>优化HTML音乐分享UI</li>
+<li>优化文件图标</li>
+</ol>
+<h2 id="v201120240614">v2.0.11<a href="https://mp.weixin.qq.com/s/81x63MvEhToUivrrYWUiYA">【2024.06.14】</a></h2>
+<h5 id="功能-4">功能</h5>
+<ol>
+<li>新增AI对话专用TXT</li>
+<li>支持批量导出docx和PDF</li>
+<li>导出指定群成员聊天记录支持docx和PDF</li>
+<li>导出的语音文件按时间命名、区分发送接收方</li>
+</ol>
+<h5 id="优化-4">优化</h5>
+<ol>
+<li>修复非中国大陆导致的日期对话框乱码的问题</li>
+<li>修复切换账号导致的数据混乱的问题</li>
+<li>优化HTML头像、时间轴等功能</li>
+<li>优化PDF显示</li>
+</ol>
+<h2 id="v201020240518">v2.0.10<a href="https://mp.weixin.qq.com/s/caZgl_URvcwensd_HdMQAQ">【2024.05.18】</a></h2>
+<h5 id="功能-5">功能</h5>
+<ol>
+<li>双人聊天分析报告
+<ul>
+<li>520特别版</li>
+<li>普通版</li>
+</ul>
+</li>
+<li>个人全部聊天分析报告</li>
+<li>新增设置单个PDF消息数量</li>
+</ol>
+<h5 id="优化-5">优化</h5>
+<ol>
+<li>PDF增加群公告信息</li>
+<li>优化部分UI</li>
+</ol>
+<h2 id="v20920240510">v2.0.9<a href="https://mp.weixin.qq.com/s/uceE4TVZwb9SuxWj5z8t3w">【2024.05.10】</a></h2>
+<h5 id="功能-6">功能</h5>
+<ol>
+<li>支持导出群聊指定成员的聊天记录</li>
+<li>xlsx新增音乐分享消息</li>
+<li>下线朋友圈导出功能</li>
+</ol>
+<h5 id="优化-6">优化</h5>
+<ol>
+<li>群聊显示企业微信联系人头像和昵称</li>
+<li>更好语音与转文字之间的位置</li>
+<li>解析数据后自动加载，无需重新启动</li>
+<li>修复群聊导出Word找不到头像的问题</li>
+<li>修复合并转发的聊天记录导致HTML显示异常的问题</li>
+</ol>
+<h2 id="v20820240503">v2.0.8<a href="https://mp.weixin.qq.com/s/i_jVhZpPzImzvGbSrpjAGA">【2024.05.03】</a></h2>
+<h5 id="功能-7">功能</h5>
+<ol>
+<li>HTML支持按类型筛选</li>
+<li>支持一键导出图片、视频、文件</li>
+<li>朋友圈增加视频类型</li>
+<li>HTML、TXT、xlsx、PDF增加群功能消息</li>
+<li>PDF增加企业微信名片</li>
+</ol>
+<h5 id="优化-7">优化</h5>
+<ol>
+<li>HTML全面适配移动端</li>
+<li>优化语音消息显示</li>
+<li>修复docx文件引用消息解析失败的问题</li>
+<li>修复HTML上滑不显示时间的问题</li>
+<li>修复朋友圈文本不显示换行的问题</li>
+<li>修复中文名过长导致的不能导出的问题</li>
+<li>HTML添加加载动画</li>
+<li>优化部分图标</li>
+</ol>
+<h2 id="v20720240426">v2.0.7<a href="https://mp.weixin.qq.com/s/ToAeS1niu4SqV0tSOJrfog">【2024.04.26】</a></h2>
+<h5 id="功能-8">功能</h5>
+<ol>
+<li>新增小程序、视频号消息(至此基本支持全部类型的消息)</li>
+<li>支持导出未命名的群聊</li>
+<li>企业微信联系人新增消息类型
+<ul>
+<li>合并转发的聊天记录</li>
+<li>文件</li>
+<li>分享卡片</li>
+<li>个人名片、公众号名片</li>
+<li>企业微信名片</li>
+<li>位置分享</li>
+<li>小程序</li>
+<li>视频号</li>
+</ul>
+</li>
+<li>xlsx新增成员信息工作簿</li>
+<li>PDF支持显示语音条</li>
+</ol>
+<h5 id="优化-8">优化</h5>
+<ol>
+<li>修复部分引用消息和合并转发的消息解析失败的问题</li>
+<li>修复xlsx编码格式导致失败的问题</li>
+<li>修复朋友圈评论溢出的问题</li>
+<li>修复部分HTML显示乱码的问题</li>
+<li>优化PDF导出体验</li>
+</ol>
+<h2 id="v206">v2.0.6<a href="">【】</a></h2>
+<h5 id="功能-9">功能</h5>
+<h5 id="优化-9">优化</h5>
+<h2 id="v205">v2.0.5<a href="">【】</a></h2>
+<h5 id="功能-10">功能</h5>
+<h5 id="优化-10">优化</h5>
+<h2 id="v204">v2.0.4<a href="">【】</a></h2>
+<h5 id="功能-11">功能</h5>
+<h5 id="优化-11">优化</h5>
+<h2 id="v203">v2.0.3<a href="">【】</a></h2>
+<h5 id="功能-12">功能</h5>
+<h5 id="优化-12">优化</h5>
+<h2 id="v202">v2.0.2<a href="">【】</a></h2>
+<h5 id="功能-13">功能</h5>
+<h5 id="优化-13">优化</h5>
+<h2 id="v201">v2.0.1<a href="">【】</a></h2>
+<h5 id="功能-14">功能</h5>
+<h5 id="优化-14">优化</h5>
+<h2 id="v200">v2.0.0<a href="">【】</a></h2>
+<h5 id="功能-15">功能</h5>
+<h5 id="优化-15">优化</h5>
+
+            
+            
+        </body>
+        </html>

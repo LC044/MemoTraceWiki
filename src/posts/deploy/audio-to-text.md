@@ -1,3 +1,18 @@
+---
+head:
+  - - meta
+    - name: keywords
+      content: 保存数据
+title: 4. 语音转文字
+icon: info
+author: 司小远
+date: 2024-04-12
+category:
+  - 保存数据
+  - 语音转文字
+index: true
+---
+
 # 语音转文字
 
 :::info 相关说明

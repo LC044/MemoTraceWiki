@@ -1,3 +1,17 @@
+---
+head:
+  - - meta
+    - name: keywords
+      content: 保存数据
+title: 2. 数据解析教程
+icon: info
+author: 司小远
+date: 2024-04-12
+category:
+  - 解析数据
+index: true
+---
+
 # 数据解析教程
 
 ## 1. 登录微信

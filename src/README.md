@@ -18,11 +18,12 @@ actions:
     link: ./posts/deploy/
     type: primary
 
-  - text: 🤯AI客服
-    link: https://chat.memotrace.cn/service/
+  - text: 常见问题
+    link: ./posts/error/
 
   - text: 下载使用
     link: https://memotrace.cn/
+
 highlights:
   - header: 功能强大
     # image: /logo.png
@@ -71,10 +72,10 @@ highlights:
         details:
         link: https://memotrace.cn/pdfdemo.html
 
-      - title: 朋友圈预览
+      - title: xlsx预览
         icon: group
         details:
-        link: https://memotrace.cn/pyqdemo/index.html
+        link: https://docs.qq.com/sheet/DSXNCb0tNVmF1aGxK?tab=000001
 
       - title: 年度报告预览
         icon: group
