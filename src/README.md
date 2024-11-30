@@ -50,6 +50,16 @@ highlights:
         details: 管理多个微信账号导出聊天记录
         link: /posts/feature.md
 
+      - title: 留痕增强
+        icon: mark
+        details: PDF转Word、PDF添加目录
+        link: https://memotrace.cn/tools/easybox/
+
+      - title: PDF工具箱
+        icon: mark
+        details: PDF合并、拆分、加密、解密、添加水印、删除水印
+        link: https://memotrace.cn/tools/easybox/
+
       - title: 年度聊天报告
         icon: creative
         details: 熬夜冠军、年度关键词、常用表情包——聊天也有仪式感
@@ -70,7 +80,17 @@ highlights:
       - title: PDF预览
         icon: group
         details:
-        link: https://memotrace.cn/pdfdemo.html
+        link: https://365.kdocs.cn/l/clprdUWi4TWp
+
+      - title: PDF转Word预览
+        icon: group
+        details:
+        link: https://365.kdocs.cn/l/ckyLIL0tKeCk
+
+      - title: 公众号文章PDF预览
+        icon: group
+        details:
+        link: https://365.kdocs.cn/l/ccvFS3TG80FP
 
       - title: xlsx预览
         icon: group
