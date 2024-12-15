@@ -77,6 +77,12 @@ highlights:
     # bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     # bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     features:
+      - title: 需求征集
+        icon: group
+        details:
+        link: https://f.wps.cn/g/jyJNGKVx/
+
+
       - title: PDF预览
         icon: group
         details:

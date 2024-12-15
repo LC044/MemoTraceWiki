@@ -15,8 +15,16 @@ tag:
 
 :::info 目录
 该文档可能有滞后，以最新版软件里支持的功能为准
+
+如果您有新的**想法**可以点击下方链接填写表单向我们反馈您的需求
+
+[需求收集表](https://f.wps.cn/g/jyJNGKVx/)
+
+<img src="https://blog.lc044.love/static/img/0a75a4c9a2a69894fa5d7bc3d7f81e10.éæ±æ¶éè¡¨.webp" height="250px">
+
 [[toc]]
 :::
+
 
 ## 支持的功能
 

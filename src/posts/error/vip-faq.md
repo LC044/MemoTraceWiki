@@ -1,6 +1,12 @@
 # 会员相关问题解答
 
 :::info
+如果您有新的**想法或需求**可以点击下方链接填写表单向我们反馈您的需求
+
+[需求收集表](https://f.wps.cn/g/jyJNGKVx/)
+
+<img src="https://blog.lc044.love/static/img/0a75a4c9a2a69894fa5d7bc3d7f81e10.éæ±æ¶éè¡¨.webp" height="250px">
+
 1. 该文档更新可能有延后具体功能请以最新版软件实际能用的功能为准；
 2. 会员服务范围仅包括只有会员能使用的功能，其他功能不提供保障或售后服务。
 :::
@@ -16,8 +22,9 @@
 7. 导出群成员聊天记录
 8. 后续开发的其他功能
 9. [客服解答](../develop/contact.md)
+10. **以上功能以后会陆续下放到标准版**（*时间未知*），如果您不着急使用会员功能可以等待后续更新
 
-## 📜导出聊天记录到PDF
+## 📜导出聊天记录到PDF（可转为Word）
 
 [点击预览](https://memotrace.cn/pdfdemo.pdf)
 
@@ -29,6 +36,7 @@
    * 小程序（支持超链接跳转）
 2. 样式与HTML保持一致
 3. 可打印
+4. 支持转为[Word文档](https://365.kdocs.cn/l/ckyLIL0tKeCk)，您可用[EasyBox](https://memotrace.cn/tools/)免费将PDF批量转为Word
 
 ## 📑导出聊天记录到Excel(xlsx)
 
@@ -63,6 +71,7 @@
 1. 导出范围（电脑微信以往接收公众号推送的文章）
 2. 导出格式
    * PDF（将公众号文章打印成PDF）
+     * 支持转为[Word文档](https://365.kdocs.cn/l/ckyLIL0tKeCk)，您可用[EasyBox](https://memotrace.cn/tools/)免费将PDF批量转为Word
    * xlsx（可显示公众号文章链接）
 
    | 日期 | 时间 | 标题 | 描述 | 链接 | 更多信息|
