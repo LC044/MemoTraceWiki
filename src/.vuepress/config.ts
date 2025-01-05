@@ -2,7 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
+  base: "/doc/",
 
   lang: "zh-CN",
   title: "MemoTrace",
@@ -17,7 +17,7 @@ export default defineUserConfig({
       {
         async: true,
         defer: true,
-        src: 'http://kbchat.lc044.love/api/application/embed?protocol=http&host=192.168.1.113:26666&token=16518b367388aa75'
+        src: 'http://kbchat.lc044.love/api/application/embed?protocol=http&host=kbchat.lc044.love&token=16518b367388aa75'
       }
     ]
   ],
