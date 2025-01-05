@@ -14,15 +14,24 @@
 
 ## 一、常见报错解决方案
 
-### 1.1 未能进入聊天界面
+### 1.1 可以进入聊天界面
 
-#### 1. TypeError: unsupported operand type(s) for |: 'type' and 'type'
+#### 1. 权限异常，请联系管理员解决
 
-```text
-Python版本不对，使用3.10及以上版本
-```
+原因： 
+1. 网络连接异常（软件打开时需要联网检查一下是不是会员，左上角头像底下显示“VIP/标准版”之后可以断网导出）
+
+2. 解析数据失败，检查一下日志文件看是否发生错误，此时左上角头像显示的是一个小人，不是你的真实头像
+
+
+### 1.2 未能进入聊天界面
+
+#### 1. OPENSSL_Uplink(00007FF903249C88,08):no OPENSSL_Applink
+
+删除留痕软件 `_internal` 目录下的 `libssl-3-x64.dll` 和 `libcrypto-3-x64.dll` 两个文件
+
 #### 2. No such file or directory: 'app/DataBase/Msg/MSG0.db'
-    
+
 ```text
 有可能是微信数据库损坏导致的
 
@@ -67,7 +76,3 @@ Python版本不对，使用3.10及以上版本
 重新登录一下微信就好了
 
 ![image.png](https://blog.lc044.love/static/img/a5dd90b7614ee0301e8c7a06d059bc48.image.webp)
-
-#### 7. OPENSSL_Uplink(00007FF903249C88,08):no OPENSSL_Applink
-
-把WireShark的环境变量删了

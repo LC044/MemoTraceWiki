@@ -63,7 +63,7 @@ highlights:
       - title: 年度聊天报告
         icon: creative
         details: 熬夜冠军、年度关键词、常用表情包——聊天也有仪式感
-        link: https://memotrace.cn/demo.html
+        link: https://memotrace.cn/2024Report/
 
       - title: AI聊天助手
         icon: mark
@@ -106,7 +106,7 @@ highlights:
       - title: 年度报告预览
         icon: group
         details:
-        link: https://memotrace.cn/demo.html
+        link: https://memotrace.cn/2024/single/
 
       - title: AI对话
         icon: group
