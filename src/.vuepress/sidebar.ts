@@ -60,6 +60,11 @@ export default sidebar({
           link: "dataset",
         },
         {
+          text: "Llama-Factory微调指南",
+          icon: "read",
+          link: "llama-factory",
+        },
+        {
           text: "训练指南1",
           icon: "read",
           link: "train",
