@@ -118,7 +118,7 @@ export default sidebar({
     {
       text: "AI客服",
       icon: "ask",
-      link: "https://chat.memotrace.cn/service/",
+      link: "https://chat.memotrace.cn/ui/chat/16518b367388aa75",
     },
   ],
 });

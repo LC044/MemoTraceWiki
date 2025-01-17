@@ -22,7 +22,7 @@ export default navbar([
   {
     text: "AI客服",
     icon: "ask",
-    link: "http://kbchat.lc044.love/ui/chat/16518b367388aa75",
+    link: "https://chat.memotrace.cn/ui/chat/16518b367388aa75",
   },
   {
     text: "官网",
