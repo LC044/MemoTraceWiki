@@ -69,7 +69,9 @@ tag:
 * 批量导出聊天记录
 * [**导出PDF**](https://memotrace.cn/pdfdemo.html)（仅会员可用，跟HTML基本保持一致）
 * **导出跟企业微信联系人的聊天记录**（仅会员可用）
-* 导出JSON
+* 导出JSON（用于训练AI）
+  * 支持Alpaca、GLM3、GLM4格式的多轮对话数据集
+* 导出markdown格式
 
 <!-- ### [导出朋友圈](https://memotrace.cn/pyqdemo/index.html)
 
@@ -104,5 +106,5 @@ tag:
 
 ### AI 对话
 
-* 支持JSON训练
+* 需要自己根据[教程](./develop/readme.md)训练、部署
 
