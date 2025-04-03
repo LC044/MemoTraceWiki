@@ -16,7 +16,7 @@ export default sidebar({
       link: "posts/deploy/install",
       children: [
         {
-          text: "1. 安装教程",
+          text: "1. 下载安装",
           icon: "blog",
           link: "install",
         },
@@ -36,7 +36,7 @@ export default sidebar({
           link: "audio-to-text",
         },
         {
-          text: "5. 保存数据",
+          text: "5. 分享保存",
           icon: "blog",
           link: "save",
         },
@@ -78,7 +78,41 @@ export default sidebar({
           text: "部署运行",
           icon: "read",
           link: "deploy",
-        }
+        },
+        {
+          text: "开发教程",
+          icon: "read",
+          collapsible: true,
+          prefix: "wexin/",
+          link: "wexin/",
+          children: [
+            {
+              text: "微信解析",
+              icon: "read",
+              link: "wexin-info",
+            },
+            {
+              text: "Llama-Factory微调指南",
+              icon: "read",
+              link: "llama-factory",
+            },
+            {
+              text: "训练指南1",
+              icon: "read",
+              link: "train",
+            },
+            {
+              text: "训练指南2",
+              icon: "read",
+              link: "train2",
+            },
+            {
+              text: "部署运行",
+              icon: "read",
+              link: "deploy",
+            }
+          ],
+        },
       ],
     },
     {

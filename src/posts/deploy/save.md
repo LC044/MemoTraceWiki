@@ -3,7 +3,7 @@ head:
   - - meta
     - name: keywords
       content: 保存数据
-title: 5. 怎样将导出的数据保存下来
+title: 5. 分享保存
 icon: info
 author: 司小远
 date: 2024-04-12
@@ -12,7 +12,7 @@ category:
 index: true
 ---
 
-# 保存数据
+# 分享保存
 
 :::info
 首先要根据[教程](exporter.md)导出聊天记录

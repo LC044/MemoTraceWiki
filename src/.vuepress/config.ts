@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+import MarkdownItKatex from "markdown-it-katex";
 
 export default defineUserConfig({
   base: "/doc/",
@@ -22,4 +23,10 @@ export default defineUserConfig({
     ]
   ],
   theme,
+  // 省略其他配置
+  extendsMarkdown: (md) => {
+    md.use(MarkdownItKatex);
+  },
 });
+
+

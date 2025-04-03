@@ -1,5 +1,7 @@
 // place your custom styles here
 // .vuepress/styles/index.scss
+@import "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css";
+@import "https://cdn.jsdelivr.net/github-markdown-css/2.2.1/github-markdown.css";
 
 // 覆盖代码块背景色
 #app {

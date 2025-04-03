@@ -3,7 +3,7 @@ head:
   - - meta
     - name: keywords
       content: 保存数据
-title: 1. 如何安装
+title: 1. 下载安装
 icon: info
 author: 司小远
 date: 2024-04-12
@@ -18,7 +18,7 @@ index: true
 
 下载地址：[https://memotrace.cn/](https://memotrace.cn/)
 
-选择一个合适的版本，点击下载按钮
+选择一个合适的版本（小白用户请不要下载测试版），点击下图中红框的下载按钮
 
 ![](https://blog.lc044.love/static/img/99719cd4d85c5557006282bbe2a678b7.clipboard-2025-02-15.webp)
 
@@ -32,7 +32,7 @@ index: true
 
 ![](https://blog.lc044.love/static/img/98ecc6045e799a0411d1424d20ce4d0e.clipboard-2025-02-15.webp)
 
-点击**保留**即可
+把鼠标放在上面，右边会出现`···`，点击**保留**即可
 
 ![](https://blog.lc044.love/static/img/13cf7e0aa96255641e3d22c76ccca5dd.clipboard-2025-02-15.webp)
 

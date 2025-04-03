@@ -3,7 +3,7 @@ head:
   - - meta
     - name: keywords
       content: 保存数据
-title: 2. 数据解析教程
+title: 2. 数据解析
 icon: info
 author: 司小远
 date: 2024-04-12
@@ -22,7 +22,11 @@ index: true
 
 ## 1. 登录微信
 
-登录要导出数据的微信（不支持微信多开，仅支持Windows微信3.9.x版本）
+登录要导出数据的微信（仅支持Windows微信**3.9.x**版本）
+
+:::note
+微信4.0可以下载测试版([MemoTrace-3.0.0(测试版).exe](https://memotrace.cn))，**测试版功能不全，小白用户请不要下载**
+:::
 
 :::info
 想把手机端的微信聊天记录转移到电脑上可以使用微信自带的聊天记录迁移功能<br>
